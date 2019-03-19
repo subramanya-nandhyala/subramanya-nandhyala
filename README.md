@@ -1,2 +1,2 @@
-# subramanya-nandhyala
+# repos
 this is for training purpose
